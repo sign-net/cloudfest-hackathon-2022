@@ -2,7 +2,7 @@
 Cloudfest Hackathon 2022 Projects
 
 ## API Documentation
-https://dash.readme.com/project/sign-api/v1.0/docs/api-calls
+https://docs.sign.net/docs
 
 ## FAQ
 - How do i obtain an API key?
