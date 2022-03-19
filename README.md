@@ -2,7 +2,7 @@
 Cloudfest Hackathon 2022 Projects
 
 ## API Documentation
-https://docs.sign.net/docs
+https://docs.sign.net/docs/document
 
 ## FAQ
 - How do i obtain an API key?
